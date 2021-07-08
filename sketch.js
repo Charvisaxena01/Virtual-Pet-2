@@ -9,7 +9,7 @@ function preload()
 {
   dog1 = loadImage("images/dogImg.png")
   happyDog = loadImage("images/dogImg1.png")
-  bg = loadImage("bg.jpeg")
+
  //mam my code is workiing properly but what I should do so that my that problem which is of thta when the food is 0 and we click on
  //up key so it again start from 20 so what code should be there to stop it.
 
